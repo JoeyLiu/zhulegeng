@@ -4,6 +4,14 @@
   color: #232323;
 }
 
+div {
+  float:right
+}
 
-  div{float:right}
+/deep/ .mat-tab-header, .mat-tab-nav-bar{
+  border-bottom: none;
+}
 
+/deep/ .mat-tab-label-active{
+
+}
